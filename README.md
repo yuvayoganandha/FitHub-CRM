@@ -120,12 +120,6 @@ Reports & Dashboards
 
 ---
 
-## 🎥 Demo Video
-
-(Add your demo video link here)
-
----
-
 ## 🧪 Testing
 
 * Created sample records
@@ -164,7 +158,9 @@ Reports & Dashboards
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Leader** Yuva Yoganandha Raja M
+**Member** Rishit G
+**Member** Kumaresan H
 
 ---
 
